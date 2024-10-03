@@ -1,4 +1,4 @@
-# 🦩 Hey! I’m Katy Kolarova
+# Hey! 🦩 I’m Katy Kolarova
 
 ## I'm so happy we finally met! 🌷 
 
