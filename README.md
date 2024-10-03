@@ -26,3 +26,7 @@ I’ve had the chance to work across different sectors, including a wine festiva
 ### Soft Skills
 
 I’m highly motivated, with strong communication abilities and a track record of working directly with clients on web app projects. Experienced in both collaborative team roles and leadership positions, I’ve worked closely with designers, developers, and project managers to deliver successful projects.
+
+### 📬 Let's Connect
+
+I'm always open to connecting with like-minded professionals and potential employers. Feel free to reach out.
