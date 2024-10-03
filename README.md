@@ -2,6 +2,8 @@
 
 ## I'm so happy we finally met! 🌷 
 
+##Who am I?
+
 **Aspiring frontend developer with 12 years of experience in digital marketing.**
 
 ### Technical Skills
