@@ -22,7 +22,8 @@ I’ve had the chance to work across different sectors, including a wine festiva
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" height="30" />
   <img src="https://www.11ty.dev/img/logo-github.svg" alt="11ty" width="30" height="30" />
-  ![image](https://github.com/user-attachments/assets/ea765202-a394-4378-9e93-561230ed0419)
+  <img src="https://github.com/user-attachments/assets/ea765202-a394-4378-9e93-561230ed0419" alt="11ty" width="30" height="30" />
+
 
 </svg>
 </div>
