@@ -22,6 +22,7 @@ I’ve had the chance to work across different sectors, including a wine festiva
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" height="30" />
   <img src="https://www.11ty.dev/img/logo-github.svg" alt="11ty" width="30" height="30" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" alt="EJS" width="30" height="30" />
 </div>
 
 ### Soft Skills
