@@ -22,7 +22,10 @@ I’ve had the chance to work across different sectors, including a wine festiva
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" height="30" />
   <img src="https://www.11ty.dev/img/logo-github.svg" alt="11ty" width="30" height="30" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Expressjs_logo.svg" alt="EJS" width="30" height="30" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="30" height="30">
+  <rect width="64" height="64" fill="#F0DB4F"/>
+  <text x="50%" y="50%" font-family="Arial, Helvetica, sans-serif" font-size="32" fill="#323330" dy=".35em" text-anchor="middle">EJS</text>
+</svg>
 </div>
 
 ### Soft Skills
