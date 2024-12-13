@@ -16,8 +16,8 @@ The Máma kóduje blog uses a modern tech stack, including:
 -**Firebase Firestore** for storing and managing blog content in real time
 -**Firebase Authentication** for securing the admin section and allowing easy user management
 -**Cloudinary** for storing and optimizing images to ensure fast load times and high-quality visuals
-  
-You can check out the project on my [GitHub repository](https://github.com/katykola/mama-koduje) or visit the live blog [here](https://mamakoduje-cc7d1.web.app/).
+
+You can check out the project on my [GitHub repository](https://github.com/katykola/mama-koduje){:target="_blank"} or visit the live blog [here](https://mamakoduje-cc7d1.web.app/){:target="_blank"}.
 
 ### Technical Skills
 
