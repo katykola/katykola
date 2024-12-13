@@ -29,9 +29,10 @@
 </svg>
 </div>
 
+
 I’ve got a diverse background with degree in journalism, plus a keen eye for aesthetics from ten years in art school. I’ve spent 12 years in digital marketing, mostly in management roles, but I’ve also created content and launched websites for various companies. I love collaborating with programmers, designers, UX experts, and company leaders to bring ideas to life.
 
-I’ve had the chance to work across different sectors, including a wine festival, a cultural organization, e-commerce platforms, a machinery company, and a British app development firm.
+I’ve had the chance to work across different sectors, including a wine festival, a cultural organization, e-commerce platforms, a machinery company, and a British app development company.
 
 ### Soft Skills
 
