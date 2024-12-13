@@ -6,6 +6,19 @@
 
 **Aspiring frontend developer with 12 years of experience in digital marketing.**
 
+Throughout my career, I have gained expertise in content creation, SEO, and user experience, all of which have sparked my passion for building intuitive, user-centric web applications. My journey into frontend development began as a personal challenge, transitioning from digital marketing to coding, and I’m excited to combine my background with my new technical skills.
+
+One of my flagship projects is Máma kóduje, a personal blog built with React and Vite. This blog serves as a space to share my experiences as a self-taught developer and a mother, detailing my learning process, course reviews, and the ups and downs of balancing motherhood with career growth.
+
+The Máma kóduje blog uses a modern tech stack, including:
+
+- **React and Vite** for fast, dynamic front-end development
+-**Firebase Firestore** for storing and managing blog content in real time
+-**Firebase Authentication** for securing the admin section and allowing easy user management
+-**Cloudinary** for storing and optimizing images to ensure fast load times and high-quality visuals
+  
+You can check out the project on my [GitHub repository](https://github.com/katykola/mama-koduje) or visit the live blog [here](https://mamakoduje-cc7d1.web.app/).
+
 ### Technical Skills
 
 <div style="display: flex; align-items: center;">
@@ -28,9 +41,6 @@
 
 </svg>
 </div>
-
-
-I’ve got a diverse background with degree in journalism und keen eye for aesthetics. I’ve spent 12 years in digital marketing, mostly in management roles, but I’ve also created content and launched websites for various companies. I love collaborating with programmers, designers, UX experts, and company leaders to bring ideas to life.
 
 ### Soft Skills
 
