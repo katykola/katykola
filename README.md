@@ -6,9 +6,13 @@
 
 **Aspiring frontend developer with 12 years of experience in digital marketing.**
 
-Throughout my career, I have gained expertise in content creation, SEO, and user experience, all of which have sparked my passion for building intuitive, user-centric web applications. My journey into frontend development began as a personal challenge, transitioning from digital marketing to coding, and I’m excited to combine my background with my new technical skills.
+Throughout my career, I have gained expertise in content creation, SEO, user experience, and website project management, all of which have sparked my passion for building intuitive, user-centric web applications.
 
-One of my flagship projects is Máma kóduje, a personal blog built with React and Vite. This blog serves as a space to share my experiences as a self-taught developer and a mother, detailing my learning process, course reviews, and the ups and downs of balancing motherhood with career growth.
+My journey into frontend development began as a personal challenge. I aimed to become an equal partner in communication with programmers. However, the deeper I delved into frontend development, the clearer it became to me that this was the right path for me.
+
+Now, after two years of study and working on my own projects, I can confidently say that I am ready for a role as a junior frontend developer. I believe that my experience from the other side of the table can bring more customer understanding to a team, as well as a fresh perspective.
+
+My flagship project is Mamakoduje.cz, a personal blog built with React Vite, Firebase database and Cloudinary storage. This blog serves as a space to share my experiences as a self-taught developer and a mother, detailing my learning process, course reviews, and the ups and downs of balancing motherhood with career growth.
 
 The Máma kóduje blog uses a modern tech stack, including:
 
