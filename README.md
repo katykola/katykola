@@ -14,13 +14,6 @@ Now, after two years of study and working on my own projects, I can confidently 
 
 My flagship project is Mamakoduje.cz, a personal blog built with React Vite, Firebase database and Cloudinary storage. This blog serves as a space to share my experiences as a self-taught developer and a mother, detailing my learning process, course reviews, and the ups and downs of balancing motherhood with career growth.
 
-The Máma kóduje blog uses a modern tech stack, including:
-
-- **React and Vite** for fast, dynamic front-end development
--**Firebase Firestore** for storing and managing blog content in real time
--**Firebase Authentication** for securing the admin section and allowing easy user management
--**Cloudinary** for storing and optimizing images to ensure fast load times and high-quality visuals
-
 You can check out the project on my [GitHub repository](https://github.com/katykola/mama-koduje) or visit the live blog [here](https://mamakoduje-cc7d1.web.app/).
 
 ### Technical Skills
