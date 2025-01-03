@@ -41,7 +41,7 @@ You can check out the project on my [GitHub repository](https://github.com/katyk
 
 ### Soft Skills
 
-I’m highly motivated, with strong communication abilities and a track record of working directly with clients on web app projects. Experienced in both collaborative team roles and leadership positions, I’ve worked closely with designers, developers, and project managers to deliver successful projects.
+I’m highly motivated, with a track record of working directly on web app projects. Experienced in both collaborative team roles and leadership positions, I’ve worked closely with designers, developers, and project managers to deliver successful projects.
 
 ### 📬 Let's Connect
 
