@@ -4,17 +4,24 @@
 
 ## About me
 
-**Aspiring frontend developer with 12 years of experience in digital marketing.**
+**Frontend developer & integration specialist with 1 year of professional experience and a 12-year background in digital marketing.**
 
-Throughout my career, I have gained expertise in content creation, SEO, user experience, and website project management, all of which have sparked my passion for building intuitive, user-centric web applications.
+I currently work as an Integration Specialist, integrating autocomplete, search, and recommendation systems into existing e-commerce platforms. I work primarily with JavaScript, TypeScript, Vue.js, and CSS/SCSS to create smooth, user-friendly interfaces that enhance the online shopping experience.
 
-My journey into frontend development began as a personal challenge. I aimed to become an equal partner in communication with programmers. However, the deeper I delved into frontend development, the clearer it became to me that this was the right path for me.
+My prior experience in digital marketing, SEO, content creation, and website project management gives me a unique perspective: I understand user needs and business goals, which helps me deliver integrations that are both technically solid and customer-focused.
 
-Now, after two years of study and working on my own projects, I can confidently say that I am ready for a role as a junior frontend developer. I believe that my experience from the other side of the table can bring more customer understanding to a team, as well as a fresh perspective.
+**Key Skills:**
 
-My flagship project is Mamakoduje.cz, a personal blog built with React Vite, Firebase database and Cloudinary storage. This blog serves as a space to share my experiences as a self-taught developer and a mother, detailing my learning process, course reviews, and the ups and downs of balancing motherhood with career growth.
+- JavaScript / TypeScript / Vue.js
+- Frontend integration of search, autocomplete, and recommendation modules
+- CSS / SCSS styling for responsive and polished interfaces
+- E-commerce platform integration
+- Digital marketing, SEO, and UX insights
 
-You can check out the project on my [GitHub repository](https://github.com/katykola/mama-koduje) or visit the live blog [here](https://mamakoduje-cc7d1.web.app/).
+**Notable Projects:**
+
+- E-commerce Integrations: Enhanced multiple online stores with smart search, autocomplete, and product recommendation modules, improving UX and conversion rates.
+- Personal Projects: Experimenting with React, Next and JavaScript.
 
 ### Technical Skills
 
