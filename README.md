@@ -35,6 +35,11 @@ You can check out the project on my [GitHub repository](https://github.com/katyk
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" height="30" />
   <img src="https://www.11ty.dev/img/logo-github.svg" alt="11ty" width="30" height="30" />
   <img src="https://github.com/user-attachments/assets/ea765202-a394-4378-9e93-561230ed0419" alt="11ty" width="30" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+     alt="React" 
+     width="30" 
+     height="30" 
+     style="margin-right: 10px;" />
 
 
 </svg>
