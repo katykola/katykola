@@ -41,7 +41,7 @@ You can check out the project on my [GitHub repository](https://github.com/katyk
      height="30" 
      style="margin-right: 10px;" />
 
-
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="30" style="margin-right: 10px;"/>
 </svg>
 </div>
 
